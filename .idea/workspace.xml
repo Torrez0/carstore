@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3a861da-3896-4efa-9940-2d9ba7a1d67d" name="Changes" comment="Adicionado o Arquivo HTML ao projeto.">
+    <list default="true" id="0870986f-5568-403a-a68e-bd5f7088df43" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/br/com/carstore/dao/CarDao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/br/com/carstore/model/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/carstore/servlet/CreateCarServelet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/carstore/servlet/CreateCarServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
@@ -26,11 +26,6 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="Torrez0 &lt;alan.torres55@hotmail.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -43,7 +38,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2VgOzqu3qygc34tvtswMoL5eTYw" />
+  <component name="ProjectId" id="2VgOuM06dKwaSGoSpIcWjCpugc8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,44 +54,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c3a861da-3896-4efa-9940-2d9ba7a1d67d" name="Changes" comment="" />
-      <created>1695254526066</created>
+      <changelist id="0870986f-5568-403a-a68e-bd5f7088df43" name="Changes" comment="" />
+      <created>1695254479265</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1695254526066</updated>
+      <updated>1695254479265</updated>
     </task>
-    <task id="LOCAL-00001" summary="teste">
-      <created>1695258562037</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1695258562037</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Adicionado o Arquivo HTML ao projeto.">
-      <created>1695258874580</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1695258874580</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="teste" />
-    <MESSAGE value="Primeiro arquivo do projeto de carro" />
-    <MESSAGE value="Adicionado o Arquivo HTML ao projeto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionado o Arquivo HTML ao projeto." />
   </component>
 </project>
